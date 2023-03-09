@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\ParImpar\ParImpar\bin\Debug\ParImpar.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\ParImpar\ParImpar\bin\Debug\ParImpar.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\ParImpar\ParImpar\bin\Debug\ParImpar.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\ParImpar\ParImpar\obj\Debug\ParImpar.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\ParImpar\ParImpar\obj\Debug\ParImpar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\ParImpar\ParImpar\obj\Debug\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\ParImpar\ParImpar\obj\Debug\ParImpar.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\ParImpar\ParImpar\obj\Debug\ParImpar.pdb
